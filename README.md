@@ -1,0 +1,2 @@
+# rustjunior
+rust learning
